@@ -1,3 +1,7 @@
+print("-------------------")
+print("---ALTURA H--------")
+print("-------------------")
+
 #input
 h=int(input("digite el valor de h: "))
 
@@ -10,4 +14,5 @@ while h>ch:
     m=m+1
 
 #output
+print("-------------RESULTADOS-----------------")
 print("la pelota rebotara la 5 parte de la altura inicial en el rebote: "+str(m))
